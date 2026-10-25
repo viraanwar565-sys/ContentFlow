@@ -218,6 +218,18 @@ React imports; UI components only render and dispatch store actions.
 
 ---
 
+## UI Screenshots
+
+### Task Management
+![ContentFlow Task Management](screenshots/task.png)
+
+The task management view shows task and subtask hierarchy, status, priority, progress, assigned resources, dates, duration, and dependencies.
+
+### Gantt Chart
+![ContentFlow Gantt Chart](screenshots/gantt_chart.png)
+
+The Gantt chart visualizes task schedules, dependencies, milestones, progress, working days, and the critical path.
+
 ## Testing
 
 ```bash
